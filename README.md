@@ -19,7 +19,7 @@ Scripts criados com o intuito de automatizar e executar tarefas do sistema opera
      </ul>
 
   <li>Mes.bat</li>
-      <p>-solicita ao usuário que digite um número inteiro relacionado ao mês desejado (1-jan, 2-fev,... 12-dezembro). Ao obter o número será finalizado,                           porém antes de sair, deverá retornar ao sistema operacional, o número escolhido pelo usuário.</p> 
+      <p>-Solicita ao usuário que digite um número inteiro relacionado ao mês desejado (1-jan, 2-fev,... 12-dezembro). Ao obter o número será finalizado,                           porém antes de sair, deverá retornar ao sistema operacional, o número escolhido pelo usuário.</p> 
   <li>Menu.bat</li>
       <p>Utilitário para facilitar algumas rotinas:</p>
       <ul>
