@@ -41,5 +41,8 @@ Scripts criados com o intuito de automatizar e executar tarefas do sistema opera
             <li>3) Salvar a lista de processos em execução no momento</li>
             <li>4) Gerar um relatório CSV</li>
             <li>5) Desligar o equipamento</li>
-       </ul>     
+       </ul>   
+       
+  <li>Investimento.vbs</li>
+      <p>-Recebe por parâmetro o total a ser investido,juros e tempo de investimento e retorna a remuneração e o montante.</p>
 </ul>
