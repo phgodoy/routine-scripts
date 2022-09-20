@@ -45,4 +45,18 @@ Scripts criados com o intuito de automatizar e executar tarefas do sistema opera
        
   <li>Investimento.vbs</li>
       <p>-Recebe por parâmetro o total a ser investido,juros e tempo de investimento e retorna a remuneração e o montante.</p>
+  <li>Menu_vetores.vbs</li>
+    <p>Script que gera e manipula vetores na seguinte ordem:</p>
+      <ul>
+            <li>a) preencha o vetor (usuário digita)</li>
+            <li>b) contagem de pares</li>
+            <li>c) contagem de ímpares</li>
+            <li>d) A média aritmética do vetor</li>
+            <li>e) O maior elemento do vetor</li>
+            <li>f) O menor elemento do vetor</li>
+            <li>g) O somatório dos elementos do vetor</li>
+            <li>h) Verifique a existência de elementos negativos no vetor.</li>
+            <li>i) Salve os itens b a h em um arquivo .csv </li>
+       </ul>   
 </ul>
+
